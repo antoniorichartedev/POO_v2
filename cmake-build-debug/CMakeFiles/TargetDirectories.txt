@@ -1,0 +1,3 @@
+/home/antonio/Escritorio/UNIVERSIDAD/POO/P3/cmake-build-debug/CMakeFiles/P3.dir
+/home/antonio/Escritorio/UNIVERSIDAD/POO/P3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/antonio/Escritorio/UNIVERSIDAD/POO/P3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
